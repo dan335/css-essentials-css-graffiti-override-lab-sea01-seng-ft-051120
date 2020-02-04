@@ -7,5 +7,5 @@
 }
 
 div#wall #tag-3.slick {
-  display: none;
+  left: 100000px;
 }
