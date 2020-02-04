@@ -13,3 +13,7 @@ div#wall #tag-3.slick {
 #wall #tag-4 {
   left: 10000px;
 }
+
+dev#wall .parent #tag-5.slick {
+  left: 10000px;
+}
