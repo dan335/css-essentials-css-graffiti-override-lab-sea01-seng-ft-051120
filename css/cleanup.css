@@ -17,3 +17,7 @@ div#wall #tag-3.slick {
 div#wall .parent #tag-5.slick {
   left: 10000px;
 }
+
+div#wall div.parent div:last-child div#tag-6 {
+  left: 10000px;
+}
