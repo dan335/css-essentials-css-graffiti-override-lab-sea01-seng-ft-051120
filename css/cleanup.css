@@ -5,3 +5,7 @@
 #wall #tag-2 {
   left: 1000px;
 }
+
+div#wall #tag-3.slick {
+  display: none;
+}
